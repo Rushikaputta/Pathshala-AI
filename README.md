@@ -36,3 +36,6 @@ Generates printable and digital worksheets based on topic, difficulty level, and
 🤖 Virtual Assistant
 
 Acts as a 24/7 AI tutor to guide students, answer questions, explain concepts, and support personalized learning.
+
+Live demo :-
+https://studio--studio-8433291759-fd4e7.us-central1.hosted.app
